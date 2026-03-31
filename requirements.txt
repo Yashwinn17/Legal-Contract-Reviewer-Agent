@@ -1,0 +1,15 @@
+streamlit
+PyPDF2
+pydantic
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-ollama
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+pytest
+python-dotenv

@@ -1,0 +1,30 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on January 1, 2026, by and between Alpha Ops LLC ("Client") and Northwind Digital Studio ("Service Provider").
+
+1. Services
+Service Provider will provide website maintenance, analytics reporting, and monthly content updates for Client's ecommerce business.
+
+2. Term
+This Agreement begins on January 1, 2026 and automatically renews for successive one-year terms unless either party gives notice of non-renewal at least 10 days before the end of the current term.
+
+3. Fees and Payment
+Client will pay Service Provider $4,500 per month. All invoices are due within 75 days. Client may withhold payment at its sole discretion if it believes deliverables are unsatisfactory. Overdue amounts accrue interest at 3% per month, compounded monthly.
+
+4. Termination
+Client may terminate this Agreement at any time, for any reason, with immediate effect and no advance notice. Service Provider may terminate only if Client fails to pay an invoice for more than 90 days.
+
+5. Confidentiality
+Service Provider shall keep all Client information confidential forever and may not disclose any information under any circumstances, including if disclosure is required by law.
+
+6. Intellectual Property
+Service Provider hereby assigns to Client all right, title, and interest in any materials, inventions, tools, templates, know-how, software, and other intellectual property used or created in connection with the services, whether developed before or after this Agreement.
+
+7. Liability and Indemnification
+Service Provider shall indemnify, defend, and hold harmless Client and its affiliates from any and all losses, claims, damages, penalties, and expenses of any kind, without limitation. Client shall have no liability to Service Provider under any circumstance.
+
+8. Force Majeure
+Neither party shall be liable for delays caused by acts of God.
+
+9. Governing Law
+This Agreement is governed by the laws of the State of California.
